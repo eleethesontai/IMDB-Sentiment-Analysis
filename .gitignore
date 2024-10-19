@@ -1,5 +1,6 @@
 .DS_Store
 Reviews.csv
+*.h5
 
 aclImdb_v1.tar.gz
 aclimdb/
